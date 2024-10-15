@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Code04_PathSumII {
 
-	// 测试链接：https://leetcode.com/problems/path-sum-ii
+	// 测试链接：https://leetcode.cn/problems/path-sum-ii
 	public static class TreeNode {
 		public int val;
 		public TreeNode left;

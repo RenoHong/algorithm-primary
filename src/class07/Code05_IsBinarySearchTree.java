@@ -33,6 +33,8 @@ public class Code05_IsBinarySearchTree {
 //		int max = x.val;
 //		int min = x.val;
 //		if (leftInfo != null) {
+	//It is possible left tree max is much bigger than root, or min is much smaller than root.
+	//They should be considered as false.
 //			max = Math.max(leftInfo.max, max);
 //			min = Math.min(leftInfo.min, min);
 //		}

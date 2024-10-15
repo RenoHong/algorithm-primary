@@ -2,7 +2,7 @@
 
 package class04;
 
-// 测试链接：https://leetcode.com/problems/reverse-nodes-in-k-group/
+// 测试链接：https://leetcode.cn/problems/reverse-nodes-in-k-group/
 public class Code04_ReverseNodesInKGroup {
 
 	// 不要提交这个类

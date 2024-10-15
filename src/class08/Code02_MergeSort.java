@@ -48,6 +48,7 @@ public class Code02_MergeSort {
 		if (arr == null || arr.length < 2) {
 			return;
 		}
+		//主要在处理边界的问题。
 		int step = 1;
 		int N = arr.length;
 		while (step < N) {

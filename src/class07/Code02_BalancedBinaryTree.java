@@ -1,6 +1,6 @@
 package class07;
 
-// 测试链接：https://leetcode.com/problems/balanced-binary-tree
+// 测试链接：https://leetcode.cn/problems/balanced-binary-tree
 public class Code02_BalancedBinaryTree {
 
 	public static class TreeNode {
@@ -13,6 +13,8 @@ public class Code02_BalancedBinaryTree {
 		}
 	}
 
+	// We need subtree to be balanced, at the same time
+	// we need height to determine if the parent is also balanced.
 	public static class Info {
 		public boolean isBalanced;
 		public int height;

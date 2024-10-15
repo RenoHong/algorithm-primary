@@ -2,7 +2,7 @@ package class07;
 
 public class Code03_PathSum {
 
-	// 测试链接：https://leetcode.com/problems/path-sum
+	// 测试链接：https://leetcode.cn/problems/path-sum
 	public static class TreeNode {
 		public int val;
 		public TreeNode left;

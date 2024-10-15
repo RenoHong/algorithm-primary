@@ -1,6 +1,6 @@
 package class06;
 
-// 测试链接：https://leetcode.com/problems/maximum-depth-of-binary-tree
+// 测试链接：https://leetcode.cn/problems/maximum-depth-of-binary-tree
 public class Code04_MaximumDepthOfBinaryTree {
 
 	public static class TreeNode {

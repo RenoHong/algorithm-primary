@@ -1,6 +1,6 @@
 package class04;
 
-// 测试链接：https://leetcode.com/problems/add-two-numbers/
+// 测试链接：https://leetcode.cn/problems/add-two-numbers/
 public class Code05_AddTwoNumbers {
 
 	// 不要提交这个类
